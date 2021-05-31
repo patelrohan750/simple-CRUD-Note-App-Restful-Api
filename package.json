@@ -1,0 +1,15 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "\"Note API usinh Node,Express and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohan patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12"
+  }
+}
